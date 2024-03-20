@@ -45,11 +45,6 @@ This project leverages a comprehensive stack of technologies and libraries desig
 - **Matplotlib** & **Seaborn**: For plotting training metrics and generating insightful visualizations of our model's performance.
 - **TensorBoard**: Integrated for real-time tracking of the training process, including loss and accuracy metrics, and for visualizing model architectures.
 
-### Miscellaneous
-
-- **NumPy**: Essential for numerical computations and image data manipulation.
-- **Pandas**: For efficient data analysis and manipulation, particularly useful during the dataset preparation phase.
-
 ### Development Tools
 
 - **Git**: For version control, ensuring smooth collaboration and project tracking.
